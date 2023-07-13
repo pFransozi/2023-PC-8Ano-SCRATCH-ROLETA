@@ -14,5 +14,7 @@
 * troca de mensagens entre componentes;
 * condição (se);
 
-Link: https://scratch.mit.edu/projects/873821672
-https://scratch.mit.edu/projects/873800724
+Link:
+* [roleta 1](https://scratch.mit.edu/projects/873821672)
+* [roleta](https://scratch.mit.edu/projects/873800724)
+
