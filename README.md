@@ -15,6 +15,6 @@
 * condição (se);
 
 Link:
-* [roleta 1](https://scratch.mit.edu/projects/873821672)
-* [roleta](https://scratch.mit.edu/projects/873800724)
+* [roleta](https://scratch.mit.edu/projects/873800724);
+* [roleta 1](https://scratch.mit.edu/projects/873821672);
 
